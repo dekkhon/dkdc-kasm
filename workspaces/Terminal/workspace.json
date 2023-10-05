@@ -1,0 +1,17 @@
+{
+  "description": "Terminal By DKDC",
+  "docker_registry": "https://index.docker.io/v1/",
+  "name": "dkdc/dkdc_terminal:latest",
+  "image_src": "terminal.png",
+  "categories": [
+    "Desktop"
+  ],
+  "friendly_name": "Terminal DKDC",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 2170
+}
