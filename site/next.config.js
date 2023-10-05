@@ -2,15 +2,15 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'DKDC-Kasm-Repo',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://dekkhon.github.io/dkdc-kasm/',
+    contactUrl: 'https://dekkhon.com',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/dkdc-kasm/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
